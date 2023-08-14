@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Pedro</h1>
 <h3 align="center">Computer Science Student</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pedrolodonio" alt="pedrolodonio" /></a> </p>
+
 
 - 🌱 I’m currently learning **JavaScript**
 
