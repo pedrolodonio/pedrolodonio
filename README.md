@@ -8,7 +8,7 @@
 - 👨‍💻 All of my projects are available at [github.com/pedrolodonio](github.com/pedrolodonio)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
+<p align="left">https://www.linkedin.com/in/pedro-xavier-377735288/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
