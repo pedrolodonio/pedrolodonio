@@ -8,7 +8,8 @@
 - 👨‍💻 All of my projects are available at [github.com/pedrolodonio](github.com/pedrolodonio)
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/victor-menezes-na/](https://www.linkedin.com/in/pedro-xavier-377735288/))
+<p align="left"> 
+https://www.linkedin.com/in/pedro-xavier-377735288/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
