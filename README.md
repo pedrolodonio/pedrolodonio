@@ -9,7 +9,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left"> 
-https://www.linkedin.com/in/pedro-xavier-377735288/
+https://www.linkedin.com/in/pedrolodonio/
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
